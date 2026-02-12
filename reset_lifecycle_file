@@ -1,2 +1,6 @@
 hello git reset 
+<<<<<<< HEAD
 change from branch A 
+=======
+change from branch B 
+>>>>>>> branchB
